@@ -4,3 +4,8 @@ int a = console.readline();
 int b = console.readline();
 int suma = a + b;
 Console.WriteLine("La suma de a y b es: " + suma);
+Console.WriteLine("Resta");
+int c = console.readline();
+int d = console.readline();
+int resta = c - d;
+Console.WriteLine("La resta de c y d es: " + resta);
