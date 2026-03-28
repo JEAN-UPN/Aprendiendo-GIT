@@ -9,8 +9,13 @@
     <ul>
         <li>git add .</li>
         <p>sirve para agregar todos los archivos modificados</p>
-        <li>git commit -m "mensaje"</li>
-        <p>sirve para guardar los cambios</p>
+        <li><code>git commit -m "mensaje"</code>
+            <ul>
+            <p>sirve para guardar los cambios</p>
+            </ul> 
+            <p>sirve para guardar los cambios</p> 
+        </li>
+        
         <li>git push origin main</li>
         <p>sirve para subir los cambios a github</p>
     </ul>
