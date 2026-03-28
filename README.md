@@ -8,8 +8,11 @@
 <li>practica
     <ul>
         <li>git add .</li>
+        <p>sirve para agregar todos los archivos modificados</p>
         <li>git commit -m "mensaje"</li>
+        <p>sirve para guardar los cambios</p>
         <li>git push origin main</li>
+        <p>sirve para subir los cambios a github</p>
     </ul>
 </li>
 <li>funcionalidad</li>
