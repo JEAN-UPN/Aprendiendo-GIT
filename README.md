@@ -13,7 +13,6 @@
             <ul>
             <p>sirve para guardar los cambios</p>
             </ul> 
-            <p>sirve para guardar los cambios</p> 
         </li>
         
         <li>git push origin main</li>
