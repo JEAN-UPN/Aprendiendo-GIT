@@ -5,13 +5,16 @@
         <strong>prueba</strong>
         <p>En esta etapa se realizan pruebas basicas para verificar el correcto funcionamiento del proyecto</p>
     </li>
-    <li>practica
+    <li>
+        <strong>practica</strong>
         <ul>
-            <li>git add .</li>
-            <p>sirve para agregar todos los archivos modificados</p>
+            <li><code>git add .</code></li>
+                <ul>
+                    <p>sirve para agregar todos los archivos modificados</p>
+                </ul>
             <li><code>git commit -m "mensaje"</code>
                 <ul>
-                <p>sirve para guardar los cambios</p>
+                    <p>sirve para guardar los cambios</p>
                 </ul> 
             </li>
         </ul>
