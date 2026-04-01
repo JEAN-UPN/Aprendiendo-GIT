@@ -10,14 +10,17 @@
                 </ul>
             </li>
         </ul>
+    </li>
+    <li>
         <strong>Prepara archivo para subir</strong>
         <ul>
             <li><code>git commit -m "mensaje"</code>
                 <ul>
                     <p>sirve para guardar los cambios</p>
-                </ul> 
-            </li>
-        </ul>
+                    </ul> 
+                </li>
+            </ul>
+        </li>
             <li><code>git status</code>
                 <ul>
                     <p>sirve para verificar el estado de los archivos</p>
