@@ -17,21 +17,15 @@
             <li><code>git commit -m "mensaje"</code>
                 <ul>
                     <p>sirve para guardar los cambios</p>
-                    </ul> 
-                </li>
-            </ul>
-        </li>
-            <li><code>git status</code>
-                <ul>
-                    <p>sirve para verificar el estado de los archivos</p>
-                </ul>
+                </ul> 
             </li>
         </ul>
-    <li> <code>git push origin main</code></li>
-        <p>sirve para subir los cambios a github</p>
     </li>
-    <li>funcionalidad</li>
-    <li>error</li>
+    <li> <code>git status</code>
+        <ul>
+            <p>sirve para verificar el estado de los archivos</p>
+        </ul>
+    </li>
 </ol>
 <h3> Siempre deben aplicar el git pull origin main (para descargar actualizaciones)
 
