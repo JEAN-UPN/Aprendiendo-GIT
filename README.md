@@ -1,21 +1,27 @@
 <h1 aling="center"> LEER ANTES DE COMENZAR</h1 >
 <h2 aling="center"> Esta es una pequeñá guia de uso de git para el manejo correcto de los proyectos </h2>
 <ol>
-    <li> 
-        <strong>prueba</strong>
-        <p>En esta etapa se realizan pruebas basicas para verificar el correcto funcionamiento del proyecto</p>
-    </li>
     <li>
-        <strong>practica</strong>
+        <strong>Prepara archivo para subir</strong>
         <ul>
-            <li><code>git add .</code></li>
+            <li><code>git add .</code>
                 <ul>
                     <p>sirve para agregar todos los archivos modificados</p>
                 </ul>
+            </li>
+        </ul>
+        <strong>Prepara archivo para subir</strong>
+        <ul>
             <li><code>git commit -m "mensaje"</code>
                 <ul>
                     <p>sirve para guardar los cambios</p>
                 </ul> 
+            </li>
+        </ul>
+            <li><code>git status</code>
+                <ul>
+                    <p>sirve para verificar el estado de los archivos</p>
+                </ul>
             </li>
         </ul>
     <li> <code>git push origin main</code></li>
